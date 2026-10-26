@@ -1,0 +1,6 @@
+{
+  "name": "ApexKit - Premium Sports Jerseys & Performance Sportswear",
+  "description": "Premium sports t-shirts, authentic club football jerseys, national team kits, and custom athletic sportswear with Cash on Delivery across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

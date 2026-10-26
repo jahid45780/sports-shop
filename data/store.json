@@ -1,0 +1,1697 @@
+{
+  "products": [
+    {
+      "name": "Bangladesh Cricket World Cup 2027 Jersey",
+      "slug": "bangladesh-cricket-world-cup-2027-jersey",
+      "category": "national-team",
+      "team": "Bangladesh National Cricket Team",
+      "regularPrice": 1200,
+      "salePrice": 999,
+      "stock": 30,
+      "sku": "BAN-CWC27-001",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Official Colors"
+      ],
+      "description": "Support the Tigers with the Bangladesh Cricket World Cup 2027 fan jersey. Featuring iconic green and red colors, a stylish tiger-inspired design, and breathable micro-mesh fabric for comfort on and off the field.",
+      "images": [
+        "/uploads/WhatsApp__jpeg_1793034321771_3468.jpg"
+      ],
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isPublished": true,
+      "fabric": "100% Breathable Micro-Mesh Polyester",
+      "fitType": "Athletic Slim Fit",
+      "allowCustomPrint": true,
+      "id": "prod-1793034340884",
+      "rating": 5,
+      "reviewCount": 0,
+      "reviews": [],
+      "createdAt": "2026-10-26T17:05:40.884Z"
+    },
+    {
+      "id": "prod-1",
+      "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+      "slug": "fc-nocturne-gold-crest-jersey",
+      "description": "Elite athlete edition football club jersey engineered with ultra-lightweight Aero-Weave micro-mesh. Features heat-applied gold metallic sponsor typography and gold crest embroidery.",
+      "category": "club-jerseys",
+      "team": "FC Nocturne",
+      "regularPrice": 1550,
+      "salePrice": 1250,
+      "images": [
+        "/src/assets/images/product_club_jersey_1792747635830.jpg"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Stealth Black / Gold"
+      ],
+      "stock": 22,
+      "sku": "APK-CLM-01",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isPublished": true,
+      "fabric": "100% Recycled Polyester Dri-Weave Tech",
+      "fitType": "Slim Athletic Fit",
+      "rating": 4.7,
+      "reviewCount": 3,
+      "allowCustomPrint": true,
+      "createdAt": "2026-10-18T09:38:27.155Z",
+      "reviews": [
+        {
+          "id": "rev-1792816775234",
+          "customerName": "Rahim Khan",
+          "rating": 4,
+          "comment": "Very comfortable fit and breathable fabric.",
+          "verifiedPurchase": true,
+          "createdAt": "2026-10-24T04:39:35.234Z"
+        },
+        {
+          "id": "rev-1",
+          "customerName": "Tanvir Ahmed",
+          "rating": 5,
+          "comment": "Outstanding fabric quality! The gold details and crest look truly premium. Delivered in Dhaka within 2 days.",
+          "createdAt": "2026-10-18T10:14:00Z",
+          "verifiedPurchase": true
+        },
+        {
+          "id": "rev-2",
+          "customerName": "Fahim Morshed",
+          "rating": 5,
+          "comment": "Authentic player edition feel. Great ventilation during football practice in high humidity.",
+          "createdAt": "2026-10-20T14:30:00Z",
+          "verifiedPurchase": true
+        }
+      ]
+    },
+    {
+      "id": "prod-2",
+      "name": "National Edition Royal Blue Heritage Jersey",
+      "slug": "national-royal-blue-heritage-jersey",
+      "description": "Official tournament national football kit featuring striking geometric prism patterns across the chest, heat-sealed team badge, and breathable side mesh ribs.",
+      "category": "national-team",
+      "team": "National Squad",
+      "regularPrice": 1650,
+      "salePrice": 1350,
+      "images": [
+        "/src/assets/images/product_national_jersey_1792747636134.jpg"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Royal Blue / Crimson"
+      ],
+      "stock": 18,
+      "sku": "APK-NAT-02",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isPublished": true,
+      "fabric": "Dri-FIT Moisture Vapor Polyester",
+      "fitType": "Regular Sport Fit",
+      "rating": 4.8,
+      "reviewCount": 24,
+      "allowCustomPrint": true,
+      "createdAt": "2026-10-19T09:38:27.156Z",
+      "reviews": [
+        {
+          "id": "rev-3",
+          "customerName": "Siam Rahman",
+          "rating": 5,
+          "comment": "Color is even more vibrant in person. True to size according to the size guide chart.",
+          "createdAt": "2026-10-19T08:15:00Z",
+          "verifiedPurchase": true
+        }
+      ]
+    },
+    {
+      "id": "prod-3",
+      "name": "Apex Velocity Pro Training T-Shirt",
+      "slug": "apex-velocity-pro-training-tshirt",
+      "description": "High-octane gym and field training sports shirt designed with targeted mapped ventilation zones. Quick-dry, anti-chafing flatlock seams for maximum range of motion.",
+      "category": "sports-tshirts",
+      "team": "Apex Performance",
+      "regularPrice": 950,
+      "salePrice": 750,
+      "images": [
+        "/src/assets/images/product_training_tshirt_1792747637025.jpg"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Charcoal Gray / Electric Lime"
+      ],
+      "stock": 35,
+      "sku": "APK-TRN-03",
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isPublished": true,
+      "fabric": "88% Poly, 12% Spandex 4-Way Stretch",
+      "fitType": "Athletic Muscle Fit",
+      "rating": 4.7,
+      "reviewCount": 19,
+      "allowCustomPrint": false,
+      "createdAt": "2026-10-20T09:38:27.156Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Custom Team Print Performance Jersey #10",
+      "slug": "custom-team-print-jersey-10",
+      "description": "Personalized football jersey with customizable player name and favorite jersey number on back with heat-pressed vinyl numerals. Clean stealth styling with neon shoulder accents.",
+      "category": "custom-jerseys",
+      "team": "Custom Creator",
+      "regularPrice": 1750,
+      "salePrice": 1450,
+      "images": [
+        "/src/assets/images/product_custom_jersey_1792747711299.jpg"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Stealth Black / Lime Green"
+      ],
+      "stock": 11,
+      "sku": "APK-CST-04",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isPublished": true,
+      "fabric": "Heavy-Duty Hydrophobic Double Knit",
+      "fitType": "Athletic Tailored Fit",
+      "rating": 5,
+      "reviewCount": 42,
+      "allowCustomPrint": true,
+      "createdAt": "2026-10-21T09:38:27.156Z",
+      "reviews": [
+        {
+          "id": "rev-4",
+          "customerName": "Kazi Naimul",
+          "rating": 5,
+          "comment": "Had my surname and number 7 printed. Print sharpness is top tier, survived 4 washes already with zero peel.",
+          "createdAt": "2026-10-21T18:20:00Z",
+          "verifiedPurchase": true
+        }
+      ]
+    },
+    {
+      "id": "prod-5",
+      "name": "Retro 1993 Geometric League Vintage Jersey",
+      "slug": "retro-1993-geometric-league-jersey",
+      "description": "Authentic 90s heritage replica jersey with oversized geometric art deco pattern, classic foldover polo collar, and vintage league crest. A must-have for jersey collectors.",
+      "category": "retro-classics",
+      "team": "Meridian FC 93",
+      "regularPrice": 1850,
+      "salePrice": 1550,
+      "images": [
+        "/src/assets/images/product_retro_jersey_1792747711923.jpg"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Deep Burgundy / Vintage Gold"
+      ],
+      "stock": 148,
+      "sku": "APK-RET-05",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isPublished": true,
+      "fabric": "Sublimated Heavyweight Jacquard Polyester",
+      "fitType": "Classic 90s Relaxed Fit",
+      "rating": 4.9,
+      "reviewCount": 31,
+      "allowCustomPrint": false,
+      "createdAt": "2026-10-17T09:38:27.156Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Aero Velocity Aero-Weave Match Kit",
+      "slug": "aero-velocity-aero-weave-match-kit",
+      "description": "Our flagship commercial edition matchday jersey with ergonomic raglan sleeves and laser-cut underarm airflow perforations. Engineered for competitive high-intensity matches.",
+      "category": "football-jerseys",
+      "team": "Apex FC",
+      "regularPrice": 1600,
+      "salePrice": 1290,
+      "images": [
+        "/src/assets/images/hero_sports_jersey_1792747635843.jpg"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Charcoal & Lime"
+      ],
+      "stock": 22,
+      "sku": "APK-AER-06",
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isPublished": true,
+      "fabric": "Aero-Weave Micro-Ribbed Polyester",
+      "fitType": "Performance Slim Fit",
+      "rating": 4.8,
+      "reviewCount": 29,
+      "allowCustomPrint": true,
+      "createdAt": "2026-10-16T09:38:27.156Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1793022686792",
+      "orderNumber": "APK-2026-1818",
+      "customer": {
+        "fullName": "Test Customer",
+        "phone": "01712345678",
+        "district": "Dhaka",
+        "thana": "Dhanmondi",
+        "fullAddress": "House 12, Road 5, Dhanmondi, Dhaka"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+          "sku": "APK-CLM-01",
+          "image": "/src/assets/images/product_club_jersey_1792747635830.jpg",
+          "size": "L",
+          "color": "Stealth Black / Gold",
+          "price": 1250,
+          "quantity": 1,
+          "itemTotal": 1250
+        }
+      ],
+      "subtotal": 1250,
+      "discount": 0,
+      "deliveryFee": 70,
+      "deliveryZone": "inside_dhaka",
+      "total": 1320,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-26T13:51:26.792Z",
+      "updatedAt": "2026-10-26T13:51:26.792Z"
+    },
+    {
+      "id": "ord-1793016651693",
+      "orderNumber": "APK-2026-2495",
+      "customer": {
+        "fullName": "Test Customer",
+        "phone": "01711223344",
+        "district": "Dhaka",
+        "fullAddress": "House 1, Road 2, Dhanmondi, Dhaka"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+          "sku": "APK-CLM-01",
+          "image": "/src/assets/images/product_club_jersey_1792747635830.jpg",
+          "size": "L",
+          "color": "Stealth Black / Gold",
+          "price": 1250,
+          "quantity": 1,
+          "itemTotal": 1250
+        }
+      ],
+      "subtotal": 1250,
+      "discount": 0,
+      "deliveryFee": 70,
+      "deliveryZone": "inside_dhaka",
+      "total": 1320,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-26T12:10:51.693Z",
+      "updatedAt": "2026-10-26T12:10:51.693Z"
+    },
+    {
+      "id": "ord-1792748322773",
+      "orderNumber": "APK-2026-6425",
+      "customer": {
+        "fullName": "Test Fan",
+        "phone": "01700112233",
+        "district": "Dhaka",
+        "thana": "Mirpur",
+        "fullAddress": "Test St 1"
+      },
+      "items": [
+        {
+          "productId": "prod-4",
+          "name": "Custom Team Print Performance Jersey #10",
+          "sku": "APK-CST-04",
+          "image": "/src/assets/images/product_custom_jersey_1792747711299.jpg",
+          "size": "L",
+          "color": "Stealth Black / Lime Green",
+          "price": 1450,
+          "quantity": 1,
+          "itemTotal": 1450
+        }
+      ],
+      "subtotal": 1450,
+      "discount": 0,
+      "deliveryFee": 70,
+      "deliveryZone": "inside_dhaka",
+      "total": 1520,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-23T09:38:42.773Z",
+      "updatedAt": "2026-10-23T09:38:42.773Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "APK-2026-1001",
+      "customer": {
+        "fullName": "Shakib Al Hasan",
+        "phone": "01712984512",
+        "email": "shakib.sport@gmail.com",
+        "district": "Dhaka",
+        "thana": "Mirpur",
+        "fullAddress": "House 45, Road 12, Sector 10, Mirpur DOHS, Dhaka",
+        "instructions": "Please call before delivery"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+          "sku": "APK-CLM-01",
+          "image": "/src/assets/images/product_club_jersey_1792747635830.jpg",
+          "size": "L",
+          "color": "Stealth Black / Gold",
+          "price": 1250,
+          "quantity": 1,
+          "itemTotal": 1250
+        }
+      ],
+      "subtotal": 1250,
+      "discount": 125,
+      "couponCode": "APEX10",
+      "deliveryFee": 70,
+      "deliveryZone": "inside_dhaka",
+      "total": 1195,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "adminNotes": "Customer accepted order, cash collected by RedX courier rider.",
+      "createdAt": "2026-10-20T09:38:27.156Z",
+      "updatedAt": "2026-10-22T09:38:27.156Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "APK-2026-1002",
+      "customer": {
+        "fullName": "Rashid Khan",
+        "phone": "01819876543",
+        "email": "rashid.k@hotmail.com",
+        "district": "Chittagong",
+        "thana": "Panchlaish",
+        "fullAddress": "Flat 4B, Green Haven, Nasirabad, Chittagong",
+        "instructions": "Deliver during office hours"
+      },
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "National Edition Royal Blue Heritage Jersey",
+          "sku": "APK-NAT-02",
+          "image": "/src/assets/images/product_national_jersey_1792747636134.jpg",
+          "size": "XL",
+          "color": "Royal Blue / Crimson",
+          "price": 1350,
+          "quantity": 2,
+          "itemTotal": 2700
+        }
+      ],
+      "subtotal": 2700,
+      "discount": 0,
+      "deliveryFee": 0,
+      "deliveryZone": "outside_dhaka",
+      "total": 2700,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "shipped",
+      "adminNotes": "Dispatched via Steadfast Courier tracking #ST99281",
+      "createdAt": "2026-10-22T09:38:27.156Z",
+      "updatedAt": "2026-10-23T03:38:27.156Z"
+    },
+    {
+      "id": "ord-1003",
+      "orderNumber": "APK-2026-1003",
+      "customer": {
+        "fullName": "Tahmidur Rahman",
+        "phone": "01911223344",
+        "district": "Dhaka",
+        "thana": "Dhanmondi",
+        "fullAddress": "Road 7A, House 22, Dhanmondi, Dhaka",
+        "instructions": "Ring bell on 3rd floor"
+      },
+      "items": [
+        {
+          "productId": "prod-4",
+          "name": "Custom Team Print Performance Jersey #10",
+          "sku": "APK-CST-04",
+          "image": "/src/assets/images/product_custom_jersey_1792747711299.jpg",
+          "size": "M",
+          "color": "Stealth Black / Lime Green",
+          "price": 1450,
+          "quantity": 1,
+          "customPrint": {
+            "playerName": "TAHMID",
+            "playerNumber": "10",
+            "extraCost": 150
+          },
+          "itemTotal": 1600
+        }
+      ],
+      "subtotal": 1600,
+      "discount": 150,
+      "couponCode": "FIRSTGOAL",
+      "deliveryFee": 70,
+      "deliveryZone": "inside_dhaka",
+      "total": 1520,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "processing",
+      "adminNotes": "Custom print confirmed with customer on phone.",
+      "createdAt": "2026-10-23T05:38:27.156Z",
+      "updatedAt": "2026-10-23T07:38:27.156Z"
+    },
+    {
+      "id": "ord-1004",
+      "orderNumber": "APK-2026-1004",
+      "customer": {
+        "fullName": "Fahad Karim",
+        "phone": "01755112233",
+        "district": "Sylhet",
+        "thana": "Zindabazar",
+        "fullAddress": "Green Hill Tower, 4th Floor, Zindabazar, Sylhet",
+        "instructions": "Leave at front desk reception"
+      },
+      "items": [
+        {
+          "productId": "prod-5",
+          "name": "Retro 1993 Geometric League Vintage Jersey",
+          "sku": "APK-RET-05",
+          "image": "/src/assets/images/product_retro_jersey_1792747711923.jpg",
+          "size": "L",
+          "color": "Deep Burgundy / Vintage Gold",
+          "price": 1550,
+          "quantity": 1,
+          "itemTotal": 1550
+        },
+        {
+          "productId": "prod-6",
+          "name": "Aero Velocity Aero-Weave Match Kit",
+          "sku": "APK-AER-06",
+          "image": "/src/assets/images/hero_sports_jersey_1792747635843.jpg",
+          "size": "L",
+          "color": "Pitch Black",
+          "price": 650,
+          "quantity": 1,
+          "itemTotal": 650
+        }
+      ],
+      "subtotal": 2200,
+      "discount": 0,
+      "deliveryFee": 0,
+      "deliveryZone": "outside_dhaka",
+      "total": 2200,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "adminNotes": "Delivered by Paperfly courier. Payment collected.",
+      "createdAt": "2026-10-20T11:20:00.000Z",
+      "updatedAt": "2026-10-22T14:10:00.000Z"
+    },
+    {
+      "id": "ord-1005",
+      "orderNumber": "APK-2026-1005",
+      "customer": {
+        "fullName": "Mahir Faisal",
+        "phone": "01733445566",
+        "district": "Dhaka",
+        "thana": "Gulshan",
+        "fullAddress": "Road 55, House 12/A, Gulshan-2, Dhaka",
+        "instructions": "Call before arrival"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+          "sku": "APK-CLM-01",
+          "image": "/src/assets/images/product_club_jersey_1792747635830.jpg",
+          "size": "M",
+          "color": "Stealth Black / Gold",
+          "price": 1250,
+          "quantity": 2,
+          "itemTotal": 2500
+        }
+      ],
+      "subtotal": 2500,
+      "discount": 250,
+      "couponCode": "APEX10",
+      "deliveryFee": 0,
+      "deliveryZone": "inside_dhaka",
+      "total": 2250,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "adminNotes": "Delivered by internal courier.",
+      "createdAt": "2026-10-19T14:30:00.000Z",
+      "updatedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "id": "ord-1006",
+      "orderNumber": "APK-2026-1006",
+      "customer": {
+        "fullName": "Saiful Islam",
+        "phone": "01788990011",
+        "district": "Rajshahi",
+        "thana": "Boalia",
+        "fullAddress": "Shaheb Bazar, Main Road, Rajshahi",
+        "instructions": "Shop delivery"
+      },
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "Apex Velocity Pro Training T-Shirt",
+          "sku": "APK-TRN-03",
+          "image": "/src/assets/images/product_training_tshirt_1792747637025.jpg",
+          "size": "L",
+          "color": "Charcoal Gray / Electric Lime",
+          "price": 750,
+          "quantity": 3,
+          "itemTotal": 2250
+        }
+      ],
+      "subtotal": 2250,
+      "discount": 0,
+      "deliveryFee": 0,
+      "deliveryZone": "outside_dhaka",
+      "total": 2250,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "adminNotes": "Paid on delivery.",
+      "createdAt": "2026-10-18T09:15:00.000Z",
+      "updatedAt": "2026-10-21T16:45:00.000Z"
+    },
+    {
+      "id": "ord-1007",
+      "orderNumber": "APK-2026-1007",
+      "customer": {
+        "fullName": "Arifur Rahman",
+        "phone": "01999887766",
+        "district": "Dhaka",
+        "thana": "Uttara",
+        "fullAddress": "Sector 7, Road 14, Uttara, Dhaka",
+        "instructions": "Deliver in evening"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "FC Nocturne Gold Crest 24/25 Club Jersey",
+          "sku": "APK-CLM-01",
+          "image": "/src/assets/images/product_club_jersey_1792747635830.jpg",
+          "size": "XL",
+          "color": "Stealth Black / Gold",
+          "price": 1250,
+          "quantity": 1,
+          "itemTotal": 1250
+        },
+        {
+          "productId": "prod-4",
+          "name": "Custom Team Print Performance Jersey #10",
+          "sku": "APK-CST-04",
+          "image": "/src/assets/images/product_custom_jersey_1792747711299.jpg",
+          "size": "L",
+          "color": "Stealth Black / Lime Green",
+          "price": 1450,
+          "quantity": 1,
+          "customPrint": {
+            "playerName": "ARIF",
+            "playerNumber": "7",
+            "extraCost": 200
+          },
+          "itemTotal": 1650
+        }
+      ],
+      "subtotal": 2900,
+      "discount": 0,
+      "deliveryFee": 0,
+      "deliveryZone": "inside_dhaka",
+      "total": 2900,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "adminNotes": "Delivered successfully.",
+      "createdAt": "2026-10-22T16:00:00.000Z",
+      "updatedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": "ord-1008",
+      "orderNumber": "APK-2026-1008",
+      "customer": {
+        "fullName": "Niaz Morshed",
+        "phone": "01611224466",
+        "district": "Khulna",
+        "thana": "Sonadanga",
+        "fullAddress": "Sonadanga R/A, Road 2, Khulna",
+        "instructions": "Call before coming"
+      },
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "National Edition Royal Blue Heritage Jersey",
+          "sku": "APK-NAT-02",
+          "image": "/src/assets/images/product_national_jersey_1792747636134.jpg",
+          "size": "M",
+          "color": "Royal Blue / Crimson",
+          "price": 1350,
+          "quantity": 1,
+          "itemTotal": 1350
+        },
+        {
+          "productId": "prod-6",
+          "name": "Aero Velocity Aero-Weave Match Kit",
+          "sku": "APK-AER-06",
+          "image": "/src/assets/images/hero_sports_jersey_1792747635843.jpg",
+          "size": "M",
+          "color": "Pitch Black",
+          "price": 650,
+          "quantity": 1,
+          "itemTotal": 650
+        }
+      ],
+      "subtotal": 2000,
+      "discount": 0,
+      "deliveryFee": 0,
+      "deliveryZone": "outside_dhaka",
+      "total": 2000,
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "unpaid",
+      "orderStatus": "confirmed",
+      "adminNotes": "Confirmed via phone call with customer.",
+      "createdAt": "2026-10-24T14:00:00.000Z",
+      "updatedAt": "2026-10-24T15:30:00.000Z"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "APEX10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 1000,
+      "isActive": true
+    },
+    {
+      "code": "FIRSTGOAL",
+      "discountType": "fixed",
+      "discountValue": 150,
+      "minOrderAmount": 1200,
+      "isActive": true
+    },
+    {
+      "code": "DHAKAFREE",
+      "discountType": "fixed",
+      "discountValue": 70,
+      "minOrderAmount": 800,
+      "isActive": true
+    },
+    {
+      "code": "APEXFREE",
+      "discountType": "fixed",
+      "discountValue": 70,
+      "minOrderAmount": 1500,
+      "isActive": true
+    },
+    {
+      "code": "APEX100",
+      "discountType": "fixed",
+      "discountValue": 100,
+      "minOrderAmount": 1200,
+      "isActive": true
+    }
+  ],
+  "settings": {
+    "storeName": "APEXKIT",
+    "tagline": "Elite Performance Sportswear & Authentic Football Jerseys",
+    "announcementText": "⚡ SPECIAL OFFER: FREE Delivery inside Dhaka on orders over ৳1,999! Cash on Delivery Available Nationwide.",
+    "announcementActive": true,
+    "phone": "01763-943446",
+    "email": "jahidhossain88899@gmail.com",
+    "deliveryFeeInsideDhaka": 70,
+    "deliveryFeeOutsideDhaka": 130,
+    "freeDeliveryThreshold": 1999,
+    "enableGuestCheckout": true
+  },
+  "newsletterSubscribers": [],
+  "sportsMatches": [
+    {
+      "id": "mat-fb-1",
+      "sport": "football",
+      "competition": "La Liga EA Sports (El Clásico)",
+      "round": "Matchday 11",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "RMA",
+        "logoColor": "#FFFFFF",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "FC Barcelona",
+        "shortName": "BAR",
+        "logoColor": "#004D98",
+        "score": 1
+      },
+      "status": "completed",
+      "statusText": "FT (Full Time)",
+      "matchTime": "2026-10-21T19:00:00Z",
+      "venue": "Santiago Bernabéu, Madrid",
+      "isVerified": true,
+      "dataSource": "verified_archive",
+      "highlights": [
+        "22' Bellingham (Goal)",
+        "54' Lewandowski (Goal)",
+        "88' Vinicius Jr. (Goal)"
+      ],
+      "stats": {
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "shotsOnTarget": {
+          "home": 7,
+          "away": 5
+        },
+        "corners": {
+          "home": 6,
+          "away": 4
+        }
+      }
+    },
+    {
+      "id": "mat-fb-2",
+      "sport": "football",
+      "competition": "English Premier League",
+      "round": "Matchday 10",
+      "homeTeam": {
+        "name": "Arsenal FC",
+        "shortName": "ARS",
+        "logoColor": "#EF0107"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MCI",
+        "logoColor": "#6CABDD"
+      },
+      "status": "upcoming",
+      "statusText": "Sunday 21:30 BST",
+      "matchTime": "2026-10-27T06:07:15.414Z",
+      "venue": "Emirates Stadium, London",
+      "isVerified": true,
+      "dataSource": "official_schedule",
+      "stats": {
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      }
+    },
+    {
+      "id": "mat-fb-3",
+      "sport": "football",
+      "competition": "AFC Asian Cup Qualifiers",
+      "round": "Group Stage",
+      "homeTeam": {
+        "name": "Bangladesh National Team",
+        "shortName": "BAN",
+        "logoColor": "#006A4E"
+      },
+      "awayTeam": {
+        "name": "India National Team",
+        "shortName": "IND",
+        "logoColor": "#06038D"
+      },
+      "status": "upcoming",
+      "statusText": "Friday 17:00 BST",
+      "matchTime": "2026-10-30T06:07:15.414Z",
+      "venue": "Bangabandhu National Stadium, Dhaka",
+      "isVerified": true,
+      "dataSource": "official_schedule"
+    },
+    {
+      "id": "mat-cr-1",
+      "sport": "cricket",
+      "competition": "ICC Men's ODI International Series",
+      "round": "2nd ODI",
+      "homeTeam": {
+        "name": "Bangladesh Tigers",
+        "shortName": "BAN",
+        "logoColor": "#006A4E",
+        "score": "284/7",
+        "subScore": "50.0 ov"
+      },
+      "awayTeam": {
+        "name": "Sri Lanka",
+        "shortName": "SL",
+        "logoColor": "#0B2341",
+        "score": "252/10",
+        "subScore": "46.4 ov"
+      },
+      "status": "completed",
+      "statusText": "Bangladesh won by 32 runs",
+      "matchTime": "2026-10-19T08:30:00Z",
+      "venue": "Sher-e-Bangla National Cricket Stadium, Mirpur, Dhaka",
+      "isVerified": true,
+      "dataSource": "verified_archive",
+      "highlights": [
+        "Shakib 86 (74)",
+        "Taskin Ahmed 4/42 (9.4 ov)",
+        "Asalanka 71 (80)"
+      ]
+    },
+    {
+      "id": "mat-cr-2",
+      "sport": "cricket",
+      "competition": "Bangladesh Premier League (BPL T20)",
+      "round": "Group Stage",
+      "homeTeam": {
+        "name": "Comilla Victorians",
+        "shortName": "COV",
+        "logoColor": "#C41230"
+      },
+      "awayTeam": {
+        "name": "Fortune Barishal",
+        "shortName": "FBA",
+        "logoColor": "#FF6F00"
+      },
+      "status": "upcoming",
+      "statusText": "Tomorrow 18:30 BST",
+      "matchTime": "2026-10-26T06:07:15.414Z",
+      "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+      "isVerified": true,
+      "dataSource": "official_schedule"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": "tour-1",
+      "name": "Bangladesh Premier League (BPL) 2026 - T20",
+      "sport": "cricket",
+      "season": "2025/2026",
+      "edition": "12th Edition",
+      "location": "Dhaka, Chattogram & Sylhet, Bangladesh",
+      "status": "ongoing",
+      "dates": "January - March 2026",
+      "isVerified": true,
+      "dataSourceLabel": "Verified Bangladesh Cricket Board (BCB) Official",
+      "overview": "The premier domestic twenty20 cricket tournament in Bangladesh featuring 7 top franchise teams, international stars, and national squad players.",
+      "teams": [
+        {
+          "id": "cov",
+          "name": "Comilla Victorians",
+          "shortName": "COV",
+          "captain": "Litton Das"
+        },
+        {
+          "id": "fba",
+          "name": "Fortune Barishal",
+          "shortName": "FBA",
+          "captain": "Tamim Iqbal"
+        },
+        {
+          "id": "rgr",
+          "name": "Rangpur Riders",
+          "shortName": "RGR",
+          "captain": "Nurul Hasan Sohan"
+        },
+        {
+          "id": "syl",
+          "name": "Sylhet Strikers",
+          "shortName": "SYL",
+          "captain": "Mashrafe Mortaza"
+        }
+      ],
+      "fixtures": [
+        {
+          "id": "fix-1",
+          "date": "2026-10-25",
+          "time": "18:30 BST",
+          "stage": "Group Stage",
+          "homeTeam": "Comilla Victorians",
+          "awayTeam": "Fortune Barishal",
+          "venue": "Mirpur, Dhaka",
+          "status": "upcoming"
+        },
+        {
+          "id": "fix-2",
+          "date": "2026-10-27",
+          "time": "13:30 BST",
+          "stage": "Group Stage",
+          "homeTeam": "Rangpur Riders",
+          "awayTeam": "Sylhet Strikers",
+          "venue": "Chattogram Stadium",
+          "status": "upcoming"
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Comilla Victorians",
+          "shortName": "COV",
+          "played": 8,
+          "won": 7,
+          "drawn": 0,
+          "lost": 1,
+          "points": 14,
+          "goalDiffOrNrr": "+1.240"
+        },
+        {
+          "rank": 2,
+          "team": "Fortune Barishal",
+          "shortName": "FBA",
+          "played": 8,
+          "won": 5,
+          "drawn": 0,
+          "lost": 3,
+          "points": 10,
+          "goalDiffOrNrr": "+0.582"
+        },
+        {
+          "rank": 3,
+          "team": "Rangpur Riders",
+          "shortName": "RGR",
+          "played": 8,
+          "won": 5,
+          "drawn": 0,
+          "lost": 3,
+          "points": 10,
+          "goalDiffOrNrr": "+0.410"
+        },
+        {
+          "rank": 4,
+          "team": "Sylhet Strikers",
+          "shortName": "SYL",
+          "played": 8,
+          "won": 3,
+          "drawn": 0,
+          "lost": 5,
+          "points": 6,
+          "goalDiffOrNrr": "-0.320"
+        }
+      ]
+    },
+    {
+      "id": "tour-2",
+      "name": "Dhaka Corporate Futsal & Football Cup 2026",
+      "sport": "football",
+      "season": "2026 Edition",
+      "edition": "Season 4",
+      "location": "Dhanmondi Arena & Army Stadium, Dhaka",
+      "status": "ongoing",
+      "dates": "October - November 2026",
+      "isVerified": true,
+      "dataSourceLabel": "Verified Dhaka Athletic Community",
+      "overview": "Dhaka city premier athletic league tournament featuring corporate athletic clubs competing in official custom sports kits.",
+      "teams": [
+        {
+          "id": "apk",
+          "name": "Apex Strikers FC",
+          "shortName": "APK",
+          "captain": "Tanvir Ahmed"
+        },
+        {
+          "id": "dhn",
+          "name": "Dhanmondi Titans",
+          "shortName": "DHN",
+          "captain": "Fahim Morshed"
+        },
+        {
+          "id": "gul",
+          "name": "Gulshan Athletic Club",
+          "shortName": "GUL",
+          "captain": "Zubair Khan"
+        },
+        {
+          "id": "utt",
+          "name": "Uttara United",
+          "shortName": "UTT",
+          "captain": "Imran Hossain"
+        }
+      ],
+      "fixtures": [
+        {
+          "id": "fix-3",
+          "date": "2026-10-26",
+          "time": "20:00 BST",
+          "stage": "Semi-Final",
+          "homeTeam": "Apex Strikers FC",
+          "awayTeam": "Dhanmondi Titans",
+          "venue": "Dhanmondi Arena",
+          "status": "upcoming"
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Apex Strikers FC",
+          "shortName": "APK",
+          "played": 6,
+          "won": 5,
+          "drawn": 1,
+          "lost": 0,
+          "points": 16,
+          "goalDiffOrNrr": "+12"
+        },
+        {
+          "rank": 2,
+          "team": "Dhanmondi Titans",
+          "shortName": "DHN",
+          "played": 6,
+          "won": 4,
+          "drawn": 1,
+          "lost": 1,
+          "points": 13,
+          "goalDiffOrNrr": "+7"
+        },
+        {
+          "rank": 3,
+          "team": "Gulshan Athletic",
+          "shortName": "GUL",
+          "played": 6,
+          "won": 2,
+          "drawn": 1,
+          "lost": 3,
+          "points": 7,
+          "goalDiffOrNrr": "-2"
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-fb-1",
+      "title": "Football Kit & Jersey History Mastermind",
+      "sport": "football",
+      "rewardPoints": 50,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which legendary number did Diego Maradona and Lionel Messi famously wear for Argentina?",
+          "options": [
+            "#7",
+            "#9",
+            "#10",
+            "#11"
+          ],
+          "correctIndex": 2,
+          "explanation": "The iconic number 10 jersey has been immortalized by both Diego Maradona and Lionel Messi for Argentina."
+        },
+        {
+          "id": "q2",
+          "question": "Which football club is traditionally known as \"Los Blancos\" (The Whites)?",
+          "options": [
+            "Real Madrid",
+            "Tottenham Hotspur",
+            "Valencia CF",
+            "Juventus"
+          ],
+          "correctIndex": 0,
+          "explanation": "Real Madrid has worn an all-white home kit since its founding in 1902, earning the nickname Los Blancos."
+        },
+        {
+          "id": "q3",
+          "question": "What performance technology is commonly used in modern player-edition micro-mesh jerseys?",
+          "options": [
+            "Cotton Twill",
+            "Dri-FIT / Aero-Weave Moisture Vapor Tech",
+            "Heavy Wool",
+            "Unventilated Nylon"
+          ],
+          "correctIndex": 1,
+          "explanation": "High-tech moisture-wicking synthetic polyester like Aero-Weave and Dri-FIT keeps athletes dry under high humidity."
+        }
+      ]
+    },
+    {
+      "id": "quiz-cr-1",
+      "title": "Bangladesh Cricket & Tigers Trivia",
+      "sport": "cricket",
+      "rewardPoints": 50,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Where is the Sher-e-Bangla National Cricket Stadium located in Dhaka?",
+          "options": [
+            "Uttara",
+            "Mirpur",
+            "Dhanmondi",
+            "Gulshan"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sher-e-Bangla National Cricket Stadium is famously located in Mirpur-2, Dhaka."
+        },
+        {
+          "id": "q2",
+          "question": "What are the two official jersey colors of the Bangladesh National Cricket Team?",
+          "options": [
+            "Blue & Yellow",
+            "Green & Red",
+            "Black & Silver",
+            "Maroon & Gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Tigers proudly sport the emerald green and crimson red inspired by the national flag."
+        }
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "id": "pred-1",
+      "matchTitle": "El Clásico 2026: Real Madrid vs FC Barcelona",
+      "sport": "football",
+      "date": "2026-10-25",
+      "optionA": "Real Madrid Win",
+      "optionB": "FC Barcelona Win",
+      "optionDraw": "Draw",
+      "votesA": 64,
+      "votesB": 48,
+      "votesDraw": 12,
+      "totalVotes": 124,
+      "status": "open"
+    },
+    {
+      "id": "pred-2",
+      "matchTitle": "2nd ODI: Bangladesh Tigers vs Sri Lanka (Mirpur)",
+      "sport": "cricket",
+      "date": "2026-10-26",
+      "optionA": "Bangladesh Win",
+      "optionB": "Sri Lanka Win",
+      "votesA": 142,
+      "votesB": 28,
+      "totalVotes": 170,
+      "status": "open"
+    }
+  ],
+  "playerVotes": [
+    {
+      "id": "cand-1",
+      "name": "Shakib Al Hasan",
+      "team": "Bangladesh Tigers",
+      "category": "Cricket All-Rounder",
+      "votes": 215,
+      "recentHighlight": "Match-winning 86 runs and 3 wickets in Mirpur"
+    },
+    {
+      "id": "cand-2",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "category": "Football Striker",
+      "votes": 184,
+      "recentHighlight": "Champions League hat-trick with explosive speed"
+    },
+    {
+      "id": "cand-3",
+      "name": "Bukayo Saka",
+      "team": "Arsenal FC",
+      "category": "Football Right Winger",
+      "votes": 130,
+      "recentHighlight": "2 assists & curling goal in London derby"
+    },
+    {
+      "id": "cand-4",
+      "name": "Taskin Ahmed",
+      "team": "Bangladesh Tigers",
+      "category": "Fast Bowler",
+      "votes": 98,
+      "recentHighlight": "Fierce pace spell claiming 4 wickets against Sri Lanka"
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "userName": "Tanvir Ahmed",
+      "points": 520,
+      "badge": "Gold Ultra",
+      "city": "Dhaka"
+    },
+    {
+      "rank": 2,
+      "userName": "Fahim Morshed",
+      "points": 460,
+      "badge": "Kit Master",
+      "city": "Dhaka"
+    },
+    {
+      "rank": 3,
+      "userName": "Siam Rahman",
+      "points": 390,
+      "badge": "Jersey Connoisseur",
+      "city": "Chattogram"
+    },
+    {
+      "rank": 4,
+      "userName": "Zubair Hossain",
+      "points": 340,
+      "badge": "Derby Predictor",
+      "city": "Sylhet"
+    },
+    {
+      "rank": 5,
+      "userName": "Nabil Khan",
+      "points": 280,
+      "badge": "Tigers Fanatic",
+      "city": "Rajshahi"
+    }
+  ],
+  "reminders": [],
+  "loyaltyAccounts": [
+    {
+      "phone": "01712345678",
+      "email": "tanvir@example.com",
+      "customerName": "Tanvir Ahmed",
+      "pointsBalance": 292,
+      "totalEarned": 372,
+      "totalRedeemed": 80,
+      "tier": "Elite",
+      "transactions": [
+        {
+          "id": "tx-1793022686792",
+          "type": "earned",
+          "points": 132,
+          "description": "Earned from eligible Cash on Delivery order #APK-2026-1818",
+          "orderNumber": "APK-2026-1818",
+          "createdAt": "2026-10-26T13:51:26.792Z"
+        },
+        {
+          "id": "tx-1",
+          "type": "earned",
+          "points": 160,
+          "description": "Earned from order APK-2026-9812",
+          "orderNumber": "APK-2026-9812",
+          "createdAt": "2026-10-23T06:07:15.414Z"
+        },
+        {
+          "id": "tx-2",
+          "type": "bonus",
+          "points": 80,
+          "description": "Fan Zone Quiz & Prediction reward",
+          "createdAt": "2026-10-24T06:07:15.414Z"
+        }
+      ]
+    },
+    {
+      "phone": "01711223344",
+      "email": "",
+      "customerName": "Test Customer",
+      "pointsBalance": 132,
+      "totalEarned": 132,
+      "totalRedeemed": 0,
+      "tier": "Rookie",
+      "transactions": [
+        {
+          "id": "tx-1793016651694",
+          "type": "earned",
+          "points": 132,
+          "description": "Earned from eligible Cash on Delivery order #APK-2026-2495",
+          "orderNumber": "APK-2026-2495",
+          "createdAt": "2026-10-26T12:10:51.694Z"
+        }
+      ]
+    }
+  ],
+  "founderProfile": {
+    "name": "MD Jahid",
+    "position": "CEO",
+    "address": "DHAKA",
+    "photoUrl": "/uploads/WhatsApp_Image_2026-10-22_at_1_1793032248334_7119.jpg",
+    "bio": "Leading Apex Kit with an unwavering commitment to empowering athletes and sports fans across Bangladesh with authentic, elite-quality sports performance kits and apparel.",
+    "updatedAt": "2026-10-26T16:31:00.245Z"
+  },
+  "chatbotSettings": {
+    "isEnabled": true,
+    "welcomeMessageEn": "👋 Hello! I'm the Darvence AI Assistant. How can we help you today with authentic sports jerseys, club kits, sizing, prices, or order tracking?",
+    "welcomeMessageBn": "👋 আসসালামু আলাইকুম! আমি ডারভেন্স এআই অ্যাসিস্ট্যান্ট (Darvence AI Assistant)। স্পোর্টস জার্সি, ক্লাব কিট, সাইজ, প্রাইজ বা অর্ডার সংক্রান্ত যেকোনো তথ্য জানতে জিজ্ঞেস করুন!",
+    "suggestedQuestions": [
+      "Find Sports Products",
+      "Product Price",
+      "Available Sizes",
+      "Order Help",
+      "Contact Support"
+    ],
+    "enableBengali": true,
+    "enableEnglish": true,
+    "supportPhone": "01763-943446",
+    "supportMessengerUrl": "https://wa.me/8801763943446",
+    "totalConversationsCount": 143,
+    "totalQueriesCount": 396,
+    "lastUpdated": "2026-10-26T09:15:17.325Z"
+  },
+  "marketingConfig": {
+    "metaPixel": {
+      "enabled": true,
+      "pixelId": "987654321098765",
+      "testEventCode": "TEST9999",
+      "enableAdvancedMatching": true,
+      "trackPageView": true,
+      "trackViewContent": true,
+      "trackSearch": true,
+      "trackAddToCart": true,
+      "trackInitiateCheckout": true,
+      "trackAddPaymentInfo": true,
+      "trackPurchase": true,
+      "trackCompleteRegistration": true
+    },
+    "metaAds": {
+      "adAccountId": "",
+      "defaultCampaignName": "ApexKit_Sports_Catalog_2026",
+      "defaultUtmSource": "facebook",
+      "defaultUtmMedium": "paid_social"
+    },
+    "googleAds": {
+      "enabled": false,
+      "conversionId": "",
+      "purchaseConversionLabel": "",
+      "addToCartConversionLabel": "",
+      "beginCheckoutConversionLabel": "",
+      "enhancedConversions": true
+    },
+    "ga4": {
+      "enabled": true,
+      "measurementId": "G-APEXKIT001",
+      "debugMode": true,
+      "sendEcommerceEvents": true
+    },
+    "gtm": {
+      "enabled": false,
+      "containerId": ""
+    },
+    "conversionEvents": [
+      {
+        "id": "view_item",
+        "name": "Product Details Opened",
+        "description": "Triggered when a customer opens a sports kit or jersey details page/modal",
+        "metaEventName": "ViewContent",
+        "ga4EventName": "view_item",
+        "googleAdsEventName": "Product View",
+        "metaEnabled": true,
+        "googleAdsEnabled": true,
+        "ga4Enabled": true,
+        "lastTestStatus": "verified",
+        "lastTestedAt": "2026-10-26T16:29:45.574Z",
+        "lastTestMessage": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed."
+      },
+      {
+        "id": "search",
+        "name": "Catalog Search Executed",
+        "description": "Triggered when an athletic query or jersey filter search is run",
+        "metaEventName": "Search",
+        "ga4EventName": "search",
+        "googleAdsEventName": "Search",
+        "metaEnabled": true,
+        "googleAdsEnabled": false,
+        "ga4Enabled": true,
+        "lastTestStatus": "verified",
+        "lastTestedAt": "2026-10-26T16:29:47.146Z",
+        "lastTestMessage": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed."
+      },
+      {
+        "id": "add_to_cart",
+        "name": "Product Added to Cart",
+        "description": "Triggered when an item is added to the shopping bag with size & quantity",
+        "metaEventName": "AddToCart",
+        "ga4EventName": "add_to_cart",
+        "googleAdsEventName": "Add to Cart",
+        "metaEnabled": true,
+        "googleAdsEnabled": true,
+        "ga4Enabled": true,
+        "lastTestStatus": "not_tested"
+      },
+      {
+        "id": "begin_checkout",
+        "name": "Checkout Flow Started",
+        "description": "Triggered when customer opens the Cash on Delivery checkout modal",
+        "metaEventName": "InitiateCheckout",
+        "ga4EventName": "begin_checkout",
+        "googleAdsEventName": "Begin Checkout",
+        "metaEnabled": true,
+        "googleAdsEnabled": true,
+        "ga4Enabled": true,
+        "lastTestStatus": "not_tested"
+      },
+      {
+        "id": "purchase",
+        "name": "Purchase Completed (COD)",
+        "description": "Triggered once only after successful order submission with genuine order ID & value",
+        "metaEventName": "Purchase",
+        "ga4EventName": "purchase",
+        "googleAdsEventName": "Purchase",
+        "metaEnabled": true,
+        "googleAdsEnabled": true,
+        "ga4Enabled": true,
+        "lastTestStatus": "not_tested"
+      },
+      {
+        "id": "lead",
+        "name": "Lead / Inquiries / Reminders",
+        "description": "Triggered on newsletter subscription, match reminder sign-up, or inquiry",
+        "metaEventName": "Lead",
+        "ga4EventName": "generate_lead",
+        "googleAdsEventName": "Lead or Contact",
+        "metaEnabled": true,
+        "googleAdsEnabled": false,
+        "ga4Enabled": true,
+        "lastTestStatus": "not_tested"
+      }
+    ],
+    "utmCampaigns": [
+      {
+        "name": "Google Search — Football Jerseys Dhaka",
+        "destinationUrl": "https://apexkit.com/#shop-catalog",
+        "source": "google",
+        "medium": "cpc",
+        "campaign": "dhaka_football_kits_2026",
+        "term": "original football jersey bangladesh",
+        "finalUrl": "https://apexkit.com/?utm_source=google&utm_medium=cpc&utm_campaign=dhaka_football_kits_2026&utm_term=original+football+jersey+bangladesh#shop-catalog",
+        "platform": "google_ads",
+        "status": "active",
+        "id": "camp-1793018033705-8lc2",
+        "createdAt": "2026-10-26T12:33:53.705Z"
+      },
+      {
+        "id": "camp-fb-retro-2026",
+        "name": "Facebook Feed — 90s Retro Collection",
+        "destinationUrl": "https://apexkit.com/#shop-catalog",
+        "source": "facebook",
+        "medium": "paid_social",
+        "campaign": "retro_heritage_collection",
+        "content": "vintage_gold_carousel",
+        "finalUrl": "https://apexkit.com/?utm_source=facebook&utm_medium=paid_social&utm_campaign=retro_heritage_collection&utm_content=vintage_gold_carousel#shop-catalog",
+        "platform": "facebook",
+        "status": "active",
+        "notes": "Targeting Dhaka & Chittagong football jersey collectors",
+        "createdAt": "2026-10-23T12:32:45.296Z"
+      },
+      {
+        "id": "camp-ig-custom-print",
+        "name": "Instagram Stories — Custom Jersey Studio",
+        "destinationUrl": "https://apexkit.com/",
+        "source": "instagram",
+        "medium": "stories",
+        "campaign": "jersey_studio_custom_name",
+        "content": "interactive_demo_video",
+        "finalUrl": "https://apexkit.com/?utm_source=instagram&utm_medium=stories&utm_campaign=jersey_studio_custom_name&utm_content=interactive_demo_video",
+        "platform": "instagram",
+        "status": "active",
+        "notes": "Swipe-up promotion for ৳200 custom printing on select kits",
+        "createdAt": "2026-10-24T12:32:45.296Z"
+      }
+    ],
+    "consent": {
+      "requireConsentBanner": true,
+      "defaultConsentAnalytics": false,
+      "defaultConsentMarketing": false,
+      "privacyPolicyUrl": "#about",
+      "bannerTitle": "Privacy & Sports Performance Tracking",
+      "bannerDescription": "Apex Kit uses cookies, Meta Pixel, and analytics tags to improve sportswear recommendations, measure ad conversions, and optimize your browsing experience."
+    },
+    "currency": "BDT",
+    "lastUpdated": "2026-10-26T12:33:53.686Z"
+  },
+  "marketingLogs": [
+    {
+      "id": "log-init-1",
+      "timestamp": "2026-10-25T12:07:02.237Z",
+      "type": "system_notice",
+      "source": "system",
+      "status": "info",
+      "message": "Marketing & Advertising Management System initialized in Admin Dashboard."
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "view_item",
+      "status": "error",
+      "message": "Meta Pixel ID is empty. Please enter your 15-16 digit Meta Pixel ID in configuration.",
+      "payload": {
+        "content_name": "Real Madrid Jersey",
+        "value": 1150,
+        "currency": "BDT"
+      },
+      "id": "log-1793018010837-b6zi1",
+      "timestamp": "2026-10-26T12:33:30.837Z"
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "view_item",
+      "status": "error",
+      "message": "Meta Pixel ID is empty. Please enter your 15-16 digit Meta Pixel ID in configuration.",
+      "payload": {
+        "content_name": "Real Madrid Jersey",
+        "value": 1150,
+        "currency": "BDT"
+      },
+      "id": "log-1793018033680-ykju3",
+      "timestamp": "2026-10-26T12:33:53.680Z"
+    },
+    {
+      "type": "config_change",
+      "source": "system",
+      "status": "success",
+      "message": "Marketing configuration updated by admin@apexkit.com",
+      "payload": {
+        "metaPixelEnabled": true,
+        "metaPixelId": "***8765",
+        "googleAdsEnabled": false,
+        "ga4Enabled": true,
+        "gtmEnabled": false
+      },
+      "id": "log-1793018033686-gt7i0",
+      "timestamp": "2026-10-26T12:33:53.686Z"
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "view_item",
+      "status": "success",
+      "message": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed.",
+      "payload": {
+        "content_name": "Real Madrid Jersey",
+        "value": 1150,
+        "currency": "BDT"
+      },
+      "id": "log-1793018033693-qpm9v",
+      "timestamp": "2026-10-26T12:33:53.693Z"
+    },
+    {
+      "type": "test_event",
+      "source": "ga4",
+      "eventName": "view_item",
+      "status": "success",
+      "message": "GA4 Measurement ID [G-APEXKIT001] format validated successfully. Ready for e-commerce telemetry in DebugView.",
+      "payload": {
+        "provider": "ga4",
+        "timestamp": "2026-10-26T12:33:53.699Z"
+      },
+      "id": "log-1793018033699-cysf8",
+      "timestamp": "2026-10-26T12:33:53.699Z"
+    },
+    {
+      "type": "config_change",
+      "source": "system",
+      "status": "info",
+      "message": "Created tracking campaign \"Google Search — Football Jerseys Dhaka\" with source [google]",
+      "payload": {
+        "id": "camp-1793018033705-8lc2",
+        "finalUrl": "https://apexkit.com/?utm_source=google&utm_medium=cpc&utm_campaign=dhaka_football_kits_2026&utm_term=original+football+jersey+bangladesh#shop-catalog"
+      },
+      "id": "log-1793018033706-8xcvt",
+      "timestamp": "2026-10-26T12:33:53.706Z"
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "connection_test",
+      "status": "success",
+      "message": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed.",
+      "payload": {
+        "provider": "meta",
+        "timestamp": "2026-10-26T12:43:55.481Z"
+      },
+      "id": "log-1793018635481-bethl",
+      "timestamp": "2026-10-26T12:43:55.481Z"
+    },
+    {
+      "type": "event_dispatch",
+      "source": "system",
+      "eventName": "consent_updated",
+      "status": "success",
+      "message": "User consent updated: Analytics=true, Marketing=true",
+      "payload": {
+        "essential": true,
+        "analytics": true,
+        "marketing": true,
+        "decided": true,
+        "updatedAt": "2026-10-26T16:27:28.621Z"
+      },
+      "id": "log-1793032048659-1vjsn",
+      "timestamp": "2026-10-26T16:27:28.659Z"
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "view_item",
+      "status": "success",
+      "message": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed.",
+      "payload": {
+        "source": "admin_dashboard_test",
+        "timestamp": "2026-10-26T16:29:45.566Z"
+      },
+      "id": "log-1793032185577-mrc38",
+      "timestamp": "2026-10-26T16:29:45.577Z"
+    },
+    {
+      "type": "test_event",
+      "source": "meta",
+      "eventName": "search",
+      "status": "success",
+      "message": "Meta Pixel connection verified for ID [987654321098765] with Test Event Code [TEST9999]. Diagnostics passed.",
+      "payload": {
+        "source": "admin_dashboard_test",
+        "timestamp": "2026-10-26T16:29:47.139Z"
+      },
+      "id": "log-1793032187147-qf83g",
+      "timestamp": "2026-10-26T16:29:47.147Z"
+    }
+  ]
+}
